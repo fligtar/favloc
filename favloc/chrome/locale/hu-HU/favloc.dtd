@@ -1,0 +1,46 @@
+<!ENTITY favloc.options-dialogtitle "Favloc beállítások">
+<!ENTITY favloc.options-favloccaption "Kedvenc helyek">
+<!ENTITY favloc.options-locations-tab "Helyek">
+<!ENTITY favloc.options-settings-tab "Beállítások">
+<!ENTITY favloc.options-listboxdescription "Ezek a helyek a Fájl menüben, a helyi menüben és a letöltés ablakban a könnyű kiválasztás érdekében">
+<!ENTITY favloc.options-deletebutton "Törlés">
+<!ENTITY favloc.options-moveupbutton "Mozgatás felfelé">
+<!ENTITY favloc.options-movedownbutton "Mozgatás lefelé">
+<!ENTITY favloc.options-addlocationcaption "Hely hozzáadása">
+<!ENTITY favloc.options-namelabel "Név">
+<!ENTITY favloc.options-locationlabel "Hely">
+<!ENTITY favloc.options-selectfolderbutton "Mappa kiválasztása...">
+<!ENTITY favloc.options-addbutton "Hozzáadás">
+<!ENTITY favloc.options-menusettings "Menü beállítások">
+<!ENTITY favloc.options-whichmenus "Melyik menün jelenjen meg a Favloc?">
+<!ENTITY favloc.options-showcontextimage "Kép helyi menü">
+<!ENTITY favloc.options-showcontextlink "Link helyi menü">
+<!ENTITY favloc.options-showcontextattachment "Csatolmány helyi menü">
+<!ENTITY favloc.options-showcontextallattachments "Minden csatolmány helyi menü">
+<!ENTITY favloc.options-showcontextallattachmentsbox "Castolmány doboz helyi menü">
+<!ENTITY favloc.options-showfile "Fájl menü">
+<!ENTITY favloc.options-showdownload "Letöltés figyelmeztetés">
+<!ENTITY favloc.options-downloadsettings "Letöltés figyelmeztetés beállítások">
+<!ENTITY favloc.options-automaticallyselect "Favloc automatikus kiválasztása">
+<!ENTITY favloc.options-lastsaved "Default to last saved location">
+<!ENTITY favloc.options-overwritesettings "Fájl felülírás beállítások">
+<!ENTITY favloc.options-overwritecaption "If the destination file already exists, FavLoc should:">
+<!ENTITY favloc.options-overwriteprompt "Ask me what to do">
+<!ENTITY favloc.options-overwriteoverwrite "Fájl felülírása">
+<!ENTITY favloc.options-overwriteunique "A fájlnév egyedivé tétele">
+<!ENTITY favloc.options-overwriterename "Értesítés új fájlnév miatt">
+<!ENTITY favloc.options-save "Mentés">
+<!ENTITY favloc.browser-toolsmenu "Favloc beállítások">
+<!ENTITY favloc.browser-toolsmenu-accesskey "F">
+<!ENTITY favloc.browser-filemenu "Mentés a Favloc-hoz...">
+<!ENTITY favloc.browser-filemenu-accesskey "f">
+<!ENTITY favloc.browser-contextmenuimage "Kép mentése a Favloc-hoz...">
+<!ENTITY favloc.browser-contextmenuimage-accesskey "f">
+<!ENTITY favloc.browser-contextmenulink "Link mentése a Favloc-hoz...">
+<!ENTITY favloc.browser-contextmenulink-accesskey "f">
+<!ENTITY favloc.browser-contextmenuattachment "Csatolmány mentése a Favloc-hoz...">
+<!ENTITY favloc.browser-contextmenuattachment-accesskey "f">
+<!ENTITY favloc.browser-contextmenuallattachments "Az összes mentése a Favloc-hoz...">
+<!ENTITY favloc.browser-contextmenuallattachments-accesskey "a">
+<!ENTITY favloc.unknown-radio "Mentés Favloc-hoz">
+<!ENTITY favloc.unknown-radio-accesskey "F">

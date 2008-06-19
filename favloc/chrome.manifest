@@ -1,0 +1,21 @@
+content     favloc    chrome/content/
+
+overlay	chrome://mozapps/content/downloads/unknownContentType.xul	chrome://favloc/content/favlocUnknown.xul
+overlay	chrome://browser/content/browser.xul	chrome://favloc/content/favlocBrowser.xul
+overlay	chrome://messenger/content/mailWindowOverlay.xul	chrome://favloc/content/favlocMessenger.xul
+overlay	chrome://messenger/content/msgHdrViewOverlay.xul	chrome://favloc/content/favlocAttachments.xul
+
+locale	favloc	da-DK	chrome/locale/da-DK/
+locale	favloc	de-DE	chrome/locale/de-DE/
+locale	favloc	en-US	chrome/locale/en-US/
+locale	favloc	es-AR	chrome/locale/es-AR/
+locale	favloc	es-ES	chrome/locale/es-ES/
+locale	favloc	fa-IR	chrome/locale/fa-IR/
+locale	favloc	fr-FR	chrome/locale/fr-FR/
+locale	favloc	hr-HR	chrome/locale/hr-HR/
+locale	favloc	hu-HU	chrome/locale/hu-HU/
+locale	favloc	it-IT	chrome/locale/it-IT/
+locale	favloc	ko-KR	chrome/locale/ko-KR/
+locale	favloc	nl-NL	chrome/locale/nl-NL/
+locale	favloc	pt-BR	chrome/locale/pt-BR/
+locale	favloc	sk-SK	chrome/locale/sk-SK/

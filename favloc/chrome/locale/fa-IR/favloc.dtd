@@ -1,0 +1,46 @@
+<!ENTITY favloc.options-dialogtitle "FavLoc تنظیمات">
+<!ENTITY favloc.options-favloccaption "مکان های مورد علاقه">
+<!ENTITY favloc.options-locations-tab "مکان ها">
+<!ENTITY favloc.options-settings-tab "تنظیمات">
+<!ENTITY favloc.options-listboxdescription ".این مکان ها در منو فایل،منوی کلیک راست و صفحه دانلود نمایش داده خواهند شد">
+<!ENTITY favloc.options-deletebutton "حذف">
+<!ENTITY favloc.options-moveupbutton "حرکت به بالا">
+<!ENTITY favloc.options-movedownbutton "حرکت به پایین">
+<!ENTITY favloc.options-addlocationcaption "افزودن مکان">
+<!ENTITY favloc.options-namelabel "نام">
+<!ENTITY favloc.options-locationlabel "مکان">
+<!ENTITY favloc.options-selectfolderbutton "انتخاب پوشه">
+<!ENTITY favloc.options-addbutton "افزودن">
+<!ENTITY favloc.options-menusettings "تنظیمات منو">
+<!ENTITY favloc.options-whichmenus "در کدام منوها نمایش داده شود؟ FavLoc">
+<!ENTITY favloc.options-showcontextimage "برای عکس در منوی کلیک راست">
+<!ENTITY favloc.options-showcontextlink "برای لینک در منوی کلیک راست">
+<!ENTITY favloc.options-showcontextattachment "Attachment Context Menu">
+<!ENTITY favloc.options-showcontextallattachments "All Attachments Context Menu">
+<!ENTITY favloc.options-showcontextallattachmentsbox "Attachment Box Context Menu">
+<!ENTITY favloc.options-showfile "منوی فایل">
+<!ENTITY favloc.options-showdownload "پنجره دانلود">
+<!ENTITY favloc.options-downloadsettings "Download Prompt Settings">
+<!ENTITY favloc.options-automaticallyselect "Automatically select FavLoc">
+<!ENTITY favloc.options-lastsaved "Default to last saved location">
+<!ENTITY favloc.options-overwritesettings "File Overwrite Settings">
+<!ENTITY favloc.options-overwritecaption "If the destination file already exists, FavLoc should:">
+<!ENTITY favloc.options-overwriteprompt "Ask me what to do">
+<!ENTITY favloc.options-overwriteoverwrite "Overwrite the file">
+<!ENTITY favloc.options-overwriteunique "Make the filename unique">
+<!ENTITY favloc.options-overwriterename "Prompt for a new filename">
+<!ENTITY favloc.options-save "ذخیره">
+<!ENTITY favloc.browser-toolsmenu "FavLoc تنظیمات">
+<!ENTITY favloc.browser-toolsmenu-accesskey "F">
+<!ENTITY favloc.browser-filemenu "FavLoc ذخیره در">
+<!ENTITY favloc.browser-filemenu-accesskey "f">
+<!ENTITY favloc.browser-contextmenuimage "FavLoc ذخیره عکس در">
+<!ENTITY favloc.browser-contextmenuimage-accesskey "f">
+<!ENTITY favloc.browser-contextmenulink "FavLoc ذخیره لینک در">
+<!ENTITY favloc.browser-contextmenulink-accesskey "f">
+<!ENTITY favloc.browser-contextmenuattachment "Save Attachment to FavLoc...">
+<!ENTITY favloc.browser-contextmenuattachment-accesskey "f">
+<!ENTITY favloc.browser-contextmenuallattachments "Save All to FavLoc...">
+<!ENTITY favloc.browser-contextmenuallattachments-accesskey "a">
+<!ENTITY favloc.unknown-radio "FavLoc ذخیره در">
+<!ENTITY favloc.unknown-radio-accesskey "F">

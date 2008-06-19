@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://communicator/skin/" type="text/css"?>
+<!DOCTYPE window SYSTEM "chrome://favloc/locale/favloc.dtd" >
+<!-- ***** BEGIN LICENSE BLOCK *****
+- Version: MPL 1.1/GPL 2.0/LGPL 2.1
+-
+- The contents of this file are subject to the Mozilla Public License Version
+- 1.1 (the "License"); you may not use this file except in compliance with
+- the License. You may obtain a copy of the License at
+- http://www.mozilla.org/MPL/
+-
+- Software distributed under the License is distributed on an "AS IS" basis,
+- WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+- for the specific language governing rights and limitations under the
+- License.
+-
+- The Original Code is FavLoc
+-
+- The Initial Developer of the Original Code is Justin Scott.
+- Portions created by the Initial Developer are Copyright (C) 2006
+- the Initial Developer. All Rights Reserved.
+-
+- Contributor(s): (none)
+-
+- Alternatively, the contents of this file may be used under the terms of
+- either the GNU General Public License Version 2 or later (the "GPL"), or
+- the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+- in which case the provisions of the GPL or the LGPL are applicable instead
+- of those above. If you wish to allow use of your version of this file only
+- under the terms of either the GPL or the LGPL, and not to allow others to
+- use your version of this file under the terms of the MPL, indicate your
+- decision by deleting the provisions above and replace them with the notice
+- and other provisions required by the LGPL or the GPL. If you do not delete
+- the provisions above, a recipient may use your version of this file under
+- the terms of any one of the MPL, the GPL or the LGPL.
+-
+- ***** END LICENSE BLOCK ***** -->
+
+<dialog xmlns:html="http://www.w3.org/1999/xhtml"
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+        onload="FavLocOptions.init();"
+        buttons="accept,cancel"
+        ondialogaccept="return FavLocOptions.setOptions();"
+        title="&favloc.options-dialogtitle;">
+        
+    <script type="application/x-javascript" src="chrome://favloc/content/favlocOptions.js"/>
+
+    <tabbox>
+        <tabs>
+            <tab label="&favloc.options-locations-tab;"/>
+            <tab label="&favloc.options-settings-tab;"/>
+        </tabs>
+        
+        <tabpanels>
+            <!-- Locations tab -->
+            <tabpanel>
+                <vbox>
+                    <groupbox>
+                        <caption label="&favloc.options-favloccaption;"/>
+                        <vbox>
+                            <description>&favloc.options-listboxdescription;</description>
+                            <hbox align="center">
+                                <listbox id="favorites" flex="1" disableKeyNavigation="true" onselect="FavLocOptions.enableControlButtons();">
+                                    <listhead>
+                                        <listheader label="&favloc.options-namelabel;"/>
+                                        <listheader label="&favloc.options-locationlabel;"/>
+                                    </listhead>
+                                    <listcols>
+                                        <listcol flex="1" size="40%"/>
+                                        <listcol flex="1"/>
+                                    </listcols>
+                                </listbox>
+                                
+                                <vbox>
+                                    <button id="delloc" label="&favloc.options-deletebutton;" disabled="true" oncommand="FavLocOptions.deleteLoc();"/>
+                                    <button id="uploc" label="&favloc.options-moveupbutton;" disabled="true" oncommand="FavLocOptions.moveLocUp();"/>
+                                    <button id="downloc" label="&favloc.options-movedownbutton;" disabled="true" oncommand="FavLocOptions.moveLocDown();"/>
+                                </vbox>
+                            </hbox>
+                        </vbox>
+                    </groupbox>
+                    
+                    <groupbox>
+                        <caption label="&favloc.options-addlocationcaption;"/>
+                        <hbox align="center"> 
+                            <label value="&favloc.options-namelabel;"/>
+                            <textbox id="name" pref="false" size="20"/>
+                            <label value="&favloc.options-locationlabel;"/>
+                            <textbox id="location" readonly="true" pref="false" size="50"/> 
+                            <button id="browse" label="&favloc.options-selectfolderbutton;" oncommand="FavLocOptions.openFilePicker();"/>
+                            <button id="addloc" label="&favloc.options-addbutton;" disabled="true" oncommand="FavLocOptions.addNewLoc();"/>
+                        </hbox>
+                    </groupbox>					
+                </vbox>
+            </tabpanel>
+            
+            <!-- Settings tab -->
+            <tabpanel>
+                <vbox flex="5">
+                    <groupbox>
+                        <caption label="&favloc.options-menusettings;"/>
+                        <description>&favloc.options-whichmenus;</description>
+                        <hbox>
+                            <checkbox id="show-context-image" label="&favloc.options-showcontextimage;"/>
+                            <checkbox id="show-context-link" label="&favloc.options-showcontextlink;"/>
+                            <checkbox id="show-file" label="&favloc.options-showfile;"/>
+                            <checkbox id="show-download" label="&favloc.options-showdownload;"/>
+                        </hbox>
+                        <hbox>
+                            <checkbox id="show-context-attachment" label="&favloc.options-showcontextattachment;"/>
+                            <checkbox id="show-context-allattachments" label="&favloc.options-showcontextallattachments;"/>
+                            <checkbox id="show-context-allattachmentsbox" label="&favloc.options-showcontextallattachmentsbox;"/>
+                        </hbox>
+                    </groupbox>
+                    
+                    <groupbox>
+                        <caption label="&favloc.options-downloadsettings;"/>
+                        <checkbox id="automatically-select" label="&favloc.options-automaticallyselect;"/>
+                        <checkbox id="default-last-saved" label="&favloc.options-lastsaved;"/>
+                    </groupbox>
+                    
+                    <groupbox>
+                        <caption label="&favloc.options-overwritesettings;"/>
+                        <radiogroup id="overwrite">
+                            <caption label="&favloc.options-overwritecaption;"/>
+                            <radio id="overwrite-prompt" value="prompt" label="&favloc.options-overwriteprompt;" selected="true"/>
+                            <radio id="overwrite-overwrite" value="overwrite" label="&favloc.options-overwriteoverwrite;"/>
+                            <radio id="overwrite-unique" value="unique" label="&favloc.options-overwriteunique;"/>
+                            <radio id="overwrite-rename" value="rename" label="&favloc.options-overwriterename;"/>
+                        </radiogroup>
+                    </groupbox>
+                </vbox>
+            </tabpanel>
+        </tabpanels>
+    </tabbox>
+    
+    <hbox>
+        <spacer flex="5"/>
+        <button label="&favloc.options-save;" dlgtype="accept"/>
+        <button dlgtype="cancel"/>
+    </hbox>
+    
+</dialog>

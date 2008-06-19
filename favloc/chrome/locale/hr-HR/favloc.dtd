@@ -1,0 +1,46 @@
+<!ENTITY favloc.options-dialogtitle "FavLoc Opcije">
+<!ENTITY favloc.options-favloccaption "Omiljena mjesta">
+<!ENTITY favloc.options-locations-tab "Mjesta">
+<!ENTITY favloc.options-settings-tab "Postavke">
+<!ENTITY favloc.options-listboxdescription "Ova mjesta će, za lakši izbor, biti prikazana na izborniku Datoteka, kontekstnim izbornicima i obavijesti o preuzimanju.">
+<!ENTITY favloc.options-deletebutton "Obriši">
+<!ENTITY favloc.options-moveupbutton "Pomakni gore">
+<!ENTITY favloc.options-movedownbutton "Pomakni dolje">
+<!ENTITY favloc.options-addlocationcaption "Dodaj mjesto">
+<!ENTITY favloc.options-namelabel "Naziv">
+<!ENTITY favloc.options-locationlabel "Mjesto">
+<!ENTITY favloc.options-selectfolderbutton "Odaberite mapu...">
+<!ENTITY favloc.options-addbutton "Dodaj">
+<!ENTITY favloc.options-menusettings "Postavke izbornika">
+<!ENTITY favloc.options-whichmenus "U kojim izbornicima biste željeli da se FavLoc pojavi?">
+<!ENTITY favloc.options-showcontextimage "Kontekstnom izborniku slike">
+<!ENTITY favloc.options-showcontextlink "Kontekstnom izborniku veze">
+<!ENTITY favloc.options-showcontextattachment "Kontekstnom izborniku privitka">
+<!ENTITY favloc.options-showcontextallattachments "Kontekstnom izborniku svih privitaka">
+<!ENTITY favloc.options-showcontextallattachmentsbox "Kontekstnom izborniku okvira privitka">
+<!ENTITY favloc.options-showfile "Izborniku datoteke">
+<!ENTITY favloc.options-showdownload "Obavijesti o preuzimanju">
+<!ENTITY favloc.options-downloadsettings "Postavke obavijesti o preuzimanju">
+<!ENTITY favloc.options-automaticallyselect "Automatski odaberi FavLoc">
+<!ENTITY favloc.options-lastsaved "Zdano je u zadnje spremljeno mjesto">
+<!ENTITY favloc.options-overwritesettings "Postavke prepisivanja datoteke">
+<!ENTITY favloc.options-overwritecaption "Ako odredišna datoteka već postoji, FavLoc bi trebao:">
+<!ENTITY favloc.options-overwriteprompt "Upitati me što učiniti">
+<!ENTITY favloc.options-overwriteoverwrite "Prepisati datoteku">
+<!ENTITY favloc.options-overwriteunique "Učiniti ime datoteke jedinstvenim">
+<!ENTITY favloc.options-overwriterename "Obavijestiti za novo ime datoteke">
+<!ENTITY favloc.options-save "Spremi">
+<!ENTITY favloc.browser-toolsmenu "FavLoc Opcije">
+<!ENTITY favloc.browser-toolsmenu-accesskey "F">
+<!ENTITY favloc.browser-filemenu "Spremi u FavLoc...">
+<!ENTITY favloc.browser-filemenu-accesskey "f">
+<!ENTITY favloc.browser-contextmenuimage "Spremi sliku u FavLoc...">
+<!ENTITY favloc.browser-contextmenuimage-accesskey "f">
+<!ENTITY favloc.browser-contextmenulink "Spremi vezu u FavLoc...">
+<!ENTITY favloc.browser-contextmenulink-accesskey "f">
+<!ENTITY favloc.browser-contextmenuattachment "Spremi privitak u FavLoc...">
+<!ENTITY favloc.browser-contextmenuattachment-accesskey "f">
+<!ENTITY favloc.browser-contextmenuallattachments "Sve spremi u FavLoc...">
+<!ENTITY favloc.browser-contextmenuallattachments-accesskey "p">
+<!ENTITY favloc.unknown-radio "Spremi u FavLoc">
+<!ENTITY favloc.unknown-radio-accesskey "F">

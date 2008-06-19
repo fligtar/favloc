@@ -1,0 +1,46 @@
+<!ENTITY favloc.options-dialogtitle "Opzioni di FavLoc">
+<!ENTITY favloc.options-favloccaption "Cartelle preferite">
+<!ENTITY favloc.options-locations-tab "Cartelle">
+<!ENTITY favloc.options-settings-tab "Impostazioni">
+<!ENTITY favloc.options-listboxdescription "Verranno mostrate nel menu &apos;File&apos;, nei menu contestuali e nella finestra di conferma download per una facile selezione">
+<!ENTITY favloc.options-deletebutton "Elimina">
+<!ENTITY favloc.options-moveupbutton "Sposta su">
+<!ENTITY favloc.options-movedownbutton "Sposta giù">
+<!ENTITY favloc.options-addlocationcaption "Aggiunta di una cartella">
+<!ENTITY favloc.options-namelabel "Nome">
+<!ENTITY favloc.options-locationlabel "Indirizzo">
+<!ENTITY favloc.options-selectfolderbutton "Sfoglia...">
+<!ENTITY favloc.options-addbutton "Aggiungi">
+<!ENTITY favloc.options-menusettings "Impostazioni dei menu">
+<!ENTITY favloc.options-whichmenus "Selezionare in quali menu e finestre dovrà apparire FavLoc">
+<!ENTITY favloc.options-showcontextimage "Menu contestuale dell&apos;immagine ">
+<!ENTITY favloc.options-showcontextlink "Menu contestuale del link">
+<!ENTITY favloc.options-showcontextattachment "Menu contestuale dell&apos;allegato">
+<!ENTITY favloc.options-showcontextallattachments "Menu contestuale per tutti gli allegati">
+<!ENTITY favloc.options-showcontextallattachmentsbox "Menu contestuale del riquadro degli allegati">
+<!ENTITY favloc.options-showfile "Menu &apos;File&apos;">
+<!ENTITY favloc.options-showdownload "Finestra di conferma del download">
+<!ENTITY favloc.options-downloadsettings "Impostazioni della finestra di conferma del download">
+<!ENTITY favloc.options-automaticallyselect "Seleziona automaticamente FavLoc">
+<!ENTITY favloc.options-lastsaved "Ricorda l&apos;ultima cartella utilizzata">
+<!ENTITY favloc.options-overwritesettings "Impostazioni di sovrascrittura dei file">
+<!ENTITY favloc.options-overwritecaption "Se il file è già esistente:">
+<!ENTITY favloc.options-overwriteprompt "chiedi cosa fare">
+<!ENTITY favloc.options-overwriteoverwrite "sovrascrivi il file">
+<!ENTITY favloc.options-overwriteunique "rinomina automaticamente">
+<!ENTITY favloc.options-overwriterename "rinomina manualmente">
+<!ENTITY favloc.options-save "OK">
+<!ENTITY favloc.browser-toolsmenu "Opzioni di FavLoc...">
+<!ENTITY favloc.browser-toolsmenu-accesskey "F">
+<!ENTITY favloc.browser-filemenu "Salva con FavLoc in">
+<!ENTITY favloc.browser-filemenu-accesskey "v">
+<!ENTITY favloc.browser-contextmenuimage "Salva immagine con FavLoc in">
+<!ENTITY favloc.browser-contextmenuimage-accesskey "i">
+<!ENTITY favloc.browser-contextmenulink "Salva link con FavLoc in">
+<!ENTITY favloc.browser-contextmenulink-accesskey "l">
+<!ENTITY favloc.browser-contextmenuattachment "Salva con FavLoc in">
+<!ENTITY favloc.browser-contextmenuattachment-accesskey "o">
+<!ENTITY favloc.browser-contextmenuallattachments "Salva tutti con FavLoc in">
+<!ENTITY favloc.browser-contextmenuallattachments-accesskey "u">
+<!ENTITY favloc.unknown-radio "Salva con FavLoc in">
+<!ENTITY favloc.unknown-radio-accesskey "o">

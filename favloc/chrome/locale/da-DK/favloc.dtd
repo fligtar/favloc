@@ -1,0 +1,46 @@
+<!ENTITY favloc.options-dialogtitle "FavLoc indstillinger">
+<!ENTITY favloc.options-favloccaption "Favoritsteder">
+<!ENTITY favloc.options-locations-tab "Steder">
+<!ENTITY favloc.options-settings-tab "Opsætning">
+<!ENTITY favloc.options-listboxdescription "Disse steder vises på Fil-menuen, kontekstmenuer, og på download-dialogboksen så man nemt kan vælge et sted.">
+<!ENTITY favloc.options-deletebutton "Slet">
+<!ENTITY favloc.options-moveupbutton "Flyt op">
+<!ENTITY favloc.options-movedownbutton "Flyt ned">
+<!ENTITY favloc.options-addlocationcaption "Tilføj sted">
+<!ENTITY favloc.options-namelabel "Navn">
+<!ENTITY favloc.options-locationlabel "Sted">
+<!ENTITY favloc.options-selectfolderbutton "Vælg mappe...">
+<!ENTITY favloc.options-addbutton "Tilføj">
+<!ENTITY favloc.options-menusettings "Menuopsætning">
+<!ENTITY favloc.options-whichmenus "På hvilke menuer ønsker du at FavLoc skal vises?">
+<!ENTITY favloc.options-showcontextimage "Kontekstmenu for billede">
+<!ENTITY favloc.options-showcontextlink "Kontekstmenu for link">
+<!ENTITY favloc.options-showcontextattachment "Vedhæftet kontekstmenu">
+<!ENTITY favloc.options-showcontextallattachments "Alle vedhæftede kontekstmenu">
+<!ENTITY favloc.options-showcontextallattachmentsbox "Vedhæftet boks kontekstmenu">
+<!ENTITY favloc.options-showfile "Filmenu">
+<!ENTITY favloc.options-showdownload "Download dialogboksen">
+<!ENTITY favloc.options-downloadsettings "Download dialogboks indstillinger">
+<!ENTITY favloc.options-automaticallyselect "Vælg automatisk FavLoc">
+<!ENTITY favloc.options-lastsaved "Brug sidst anvendte placering">
+<!ENTITY favloc.options-overwritesettings "Overskriv Fil indstillinger">
+<!ENTITY favloc.options-overwritecaption "Hvis destinationsfilen allerede findes skal FavLoc:">
+<!ENTITY favloc.options-overwriteprompt "Spørge mig hvad jeg vil gøre">
+<!ENTITY favloc.options-overwriteoverwrite "Overskrive filen">
+<!ENTITY favloc.options-overwriteunique "Gøre filnavnet unikt">
+<!ENTITY favloc.options-overwriterename "Spørge efter et nyt filnavn">
+<!ENTITY favloc.options-save "Gem">
+<!ENTITY favloc.browser-toolsmenu "FavLoc indstillinger">
+<!ENTITY favloc.browser-toolsmenu-accesskey "F">
+<!ENTITY favloc.browser-filemenu "Gem til FavLoc...">
+<!ENTITY favloc.browser-filemenu-accesskey "f">
+<!ENTITY favloc.browser-contextmenuimage "Gem billede til FavLoc...">
+<!ENTITY favloc.browser-contextmenuimage-accesskey "f">
+<!ENTITY favloc.browser-contextmenulink "Gem link til FavLoc...">
+<!ENTITY favloc.browser-contextmenulink-accesskey "f">
+<!ENTITY favloc.browser-contextmenuattachment "Gem vedhæftede til FavLoc...">
+<!ENTITY favloc.browser-contextmenuattachment-accesskey "f">
+<!ENTITY favloc.browser-contextmenuallattachments "Gem alle til FavLoc">
+<!ENTITY favloc.browser-contextmenuallattachments-accesskey "a">
+<!ENTITY favloc.unknown-radio "Gem til FavLoc">
+<!ENTITY favloc.unknown-radio-accesskey "F">

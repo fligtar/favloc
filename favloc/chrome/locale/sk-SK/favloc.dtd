@@ -1,0 +1,46 @@
+<!ENTITY favloc.options-dialogtitle "Možnosti FavLoc">
+<!ENTITY favloc.options-favloccaption "Obľúbené umiestnenia">
+<!ENTITY favloc.options-locations-tab "Umiestnenia">
+<!ENTITY favloc.options-settings-tab "Nastavenia">
+<!ENTITY favloc.options-listboxdescription "Tieto umiestnenia budú zobrazené v ponuke Súbor, kontextovej ponuke a pri určovaní umiestnenia sťahovaného súboru.">
+<!ENTITY favloc.options-deletebutton "Zmazať">
+<!ENTITY favloc.options-moveupbutton "Presunúť vyššie">
+<!ENTITY favloc.options-movedownbutton "Presunúť nižšie">
+<!ENTITY favloc.options-addlocationcaption "Pridať umiestnenie">
+<!ENTITY favloc.options-namelabel "Názov">
+<!ENTITY favloc.options-locationlabel "Umiestnenie">
+<!ENTITY favloc.options-selectfolderbutton "Vyberte priečinok...">
+<!ENTITY favloc.options-addbutton "Pridať">
+<!ENTITY favloc.options-menusettings "Nastavenia ponuky">
+<!ENTITY favloc.options-whichmenus "V ktorých ponukách chcete umiestnenia zobraziť?">
+<!ENTITY favloc.options-showcontextimage "Kontextová ponuka obrázka">
+<!ENTITY favloc.options-showcontextlink "Kontextová ponuka odkazu">
+<!ENTITY favloc.options-showcontextattachment "Kontextová ponuka prílohy">
+<!ENTITY favloc.options-showcontextallattachments "Kontextová ponuka všetkých príloh">
+<!ENTITY favloc.options-showcontextallattachmentsbox "Kontextová ponuka okna s prílohami">
+<!ENTITY favloc.options-showfile "Ponuka Súbor">
+<!ENTITY favloc.options-showdownload "Požiadavka na sťahovanie">
+<!ENTITY favloc.options-downloadsettings "Nastavenia vyžiadania umiestnenia">
+<!ENTITY favloc.options-automaticallyselect "Automaticky">
+<!ENTITY favloc.options-lastsaved "Prednastavené na posledné použité umiestnenie">
+<!ENTITY favloc.options-overwritesettings "Nastavenie prepisovania súborov">
+<!ENTITY favloc.options-overwritecaption "Ak už súbor existuje, FavLoc:">
+<!ENTITY favloc.options-overwriteprompt "Sa opýta čo má urobiť">
+<!ENTITY favloc.options-overwriteoverwrite "Prepíše súbor">
+<!ENTITY favloc.options-overwriteunique "Vytvorí jedinečný názov súboru">
+<!ENTITY favloc.options-overwriterename "Vyžiada si nový názov súboru">
+<!ENTITY favloc.options-save "Uložiť">
+<!ENTITY favloc.browser-toolsmenu "Možnosti FavLoc">
+<!ENTITY favloc.browser-toolsmenu-accesskey "F">
+<!ENTITY favloc.browser-filemenu "Uložiť na obľúbené umiestnenie...">
+<!ENTITY favloc.browser-filemenu-accesskey "o">
+<!ENTITY favloc.browser-contextmenuimage "Uložiť obrázok na obľúbené umiestnenie...">
+<!ENTITY favloc.browser-contextmenuimage-accesskey "o">
+<!ENTITY favloc.browser-contextmenulink "Uložiť cieľ odkazu na obľúbené umiestnenie...">
+<!ENTITY favloc.browser-contextmenulink-accesskey "o">
+<!ENTITY favloc.browser-contextmenuattachment "Uložiť prílohu na obľúbené umiestnenie">
+<!ENTITY favloc.browser-contextmenuattachment-accesskey "p">
+<!ENTITY favloc.browser-contextmenuallattachments "Uložiť všetko na obľúbené umiestnenie">
+<!ENTITY favloc.browser-contextmenuallattachments-accesskey "v">
+<!ENTITY favloc.unknown-radio "Uložiť na obľúbené umiestnenie">
+<!ENTITY favloc.unknown-radio-accesskey "F">

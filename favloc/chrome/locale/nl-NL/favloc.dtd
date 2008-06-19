@@ -1,0 +1,46 @@
+<!ENTITY favloc.options-dialogtitle "FavLoc opties">
+<!ENTITY favloc.options-favloccaption "Favoriete lokaties">
+<!ENTITY favloc.options-locations-tab "Lokaties">
+<!ENTITY favloc.options-settings-tab "Instellingen">
+<!ENTITY favloc.options-listboxdescription "Deze lokaties zullen worden weergegeven in het Bestand menu, contextmenu&apos;s en het downloadvenster voor eenvoudige selectie.">
+<!ENTITY favloc.options-deletebutton "Verwijderen">
+<!ENTITY favloc.options-moveupbutton "Omhoog zetten">
+<!ENTITY favloc.options-movedownbutton "Naar beneden zetten">
+<!ENTITY favloc.options-addlocationcaption "Lokatie toevoegen">
+<!ENTITY favloc.options-namelabel "Naam">
+<!ENTITY favloc.options-locationlabel "Lokatie">
+<!ENTITY favloc.options-selectfolderbutton "Selecteer map...">
+<!ENTITY favloc.options-addbutton "Toevoegen">
+<!ENTITY favloc.options-menusettings "Menu-instellingen">
+<!ENTITY favloc.options-whichmenus "In welke menu&apos;s wilt u FavLoc laten zien?">
+<!ENTITY favloc.options-showcontextimage "Contextmenu van afbeeldingen">
+<!ENTITY favloc.options-showcontextlink "Contextmenu van koppelingen">
+<!ENTITY favloc.options-showcontextattachment "Contextmenu van bijlagen">
+<!ENTITY favloc.options-showcontextallattachments "Contextmenu van alle bijlagen">
+<!ENTITY favloc.options-showcontextallattachmentsbox "Contextmenu van bijlage-veld">
+<!ENTITY favloc.options-showfile "Bestandsmenu">
+<!ENTITY favloc.options-showdownload "Downloadvenster">
+<!ENTITY favloc.options-downloadsettings "Instellingen downloadvenster">
+<!ENTITY favloc.options-automaticallyselect "Automatisch favoriete lokatie selecteren">
+<!ENTITY favloc.options-lastsaved "Standaard de laatst gebruikte lokatie">
+<!ENTITY favloc.options-overwritesettings "Instellingen voor overschrijven van bestanden">
+<!ENTITY favloc.options-overwritecaption "Als het doelbestand reeds bestaat moet FavLoc:">
+<!ENTITY favloc.options-overwriteprompt "Mij vragen wat te doen">
+<!ENTITY favloc.options-overwriteoverwrite "Het bestand overschrijven">
+<!ENTITY favloc.options-overwriteunique "De bestandsnaam uniek maken">
+<!ENTITY favloc.options-overwriterename "Mij vragen om een nieuwe bestandsnaam">
+<!ENTITY favloc.options-save "Opslaan">
+<!ENTITY favloc.browser-toolsmenu "FavLoc opties">
+<!ENTITY favloc.browser-toolsmenu-accesskey "F">
+<!ENTITY favloc.browser-filemenu "Opslaan op favoriete lokatie...">
+<!ENTITY favloc.browser-filemenu-accesskey "f">
+<!ENTITY favloc.browser-contextmenuimage "Afbeelding opslaan op favoriete lokatie...">
+<!ENTITY favloc.browser-contextmenuimage-accesskey "f">
+<!ENTITY favloc.browser-contextmenulink "Koppeling opslaan op favoriete lokatie...">
+<!ENTITY favloc.browser-contextmenulink-accesskey "f">
+<!ENTITY favloc.browser-contextmenuattachment "bijlage opslaan op favoriete lokatie...">
+<!ENTITY favloc.browser-contextmenuattachment-accesskey "f">
+<!ENTITY favloc.browser-contextmenuallattachments "Alles opslaan op favoriete lokatie...">
+<!ENTITY favloc.browser-contextmenuallattachments-accesskey "a">
+<!ENTITY favloc.unknown-radio "Opslaan op favoriete locatie...">
+<!ENTITY favloc.unknown-radio-accesskey "F">

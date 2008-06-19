@@ -1,0 +1,1 @@
+pref("extensions.{472f4ef0-a825-11da-a746-0800200c9a66}.description", "chrome://favloc/locale/favloc.properties");

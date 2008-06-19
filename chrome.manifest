@@ -1,0 +1,21 @@
+content     favloc    jar:chrome/favloc.jar!/content/
+
+overlay	chrome://mozapps/content/downloads/unknownContentType.xul	chrome://favloc/content/favlocUnknown.xul
+overlay	chrome://browser/content/browser.xul	chrome://favloc/content/favlocBrowser.xul
+overlay	chrome://messenger/content/mailWindowOverlay.xul	chrome://favloc/content/favlocMessenger.xul
+overlay	chrome://messenger/content/msgHdrViewOverlay.xul	chrome://favloc/content/favlocMessenger.xul
+
+locale	favloc	da-DK	jar:chrome/favloc.jar!/locale/da-DK/
+locale	favloc	de-DE	jar:chrome/favloc.jar!/locale/de-DE/
+locale	favloc	en-US	jar:chrome/favloc.jar!/locale/en-US/
+locale	favloc	es-AR	jar:chrome/favloc.jar!/locale/es-AR/
+locale	favloc	es-ES	jar:chrome/favloc.jar!/locale/es-ES/
+locale	favloc	fa-IR	jar:chrome/favloc.jar!/locale/fa-IR/
+locale	favloc	fr-FR	jar:chrome/favloc.jar!/locale/fr-FR/
+locale	favloc	hr-HR	jar:chrome/favloc.jar!/locale/hr-HR/
+locale	favloc	hu-HU	jar:chrome/favloc.jar!/locale/hu-HU/
+locale	favloc	it-IT	jar:chrome/favloc.jar!/locale/it-IT/
+locale	favloc	ko-KR	jar:chrome/favloc.jar!/locale/ko-KR/
+locale	favloc	nl-NL	jar:chrome/favloc.jar!/locale/nl-NL/
+locale	favloc	pt-BR	jar:chrome/favloc.jar!/locale/pt-BR/
+locale	favloc	sk-SK	jar:chrome/favloc.jar!/locale/sk-SK/

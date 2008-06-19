@@ -1,0 +1,46 @@
+<!ENTITY favloc.options-dialogtitle "FavLoc 설정">
+<!ENTITY favloc.options-favloccaption "자주 쓰는 위치">
+<!ENTITY favloc.options-locations-tab "위치">
+<!ENTITY favloc.options-settings-tab "설정">
+<!ENTITY favloc.options-listboxdescription "아래 위치를 고르기 편하게 파일 메뉴, 문맥 메뉴, 다운로드 프롬프트에 표시합니다.">
+<!ENTITY favloc.options-deletebutton "지움">
+<!ENTITY favloc.options-moveupbutton "위로">
+<!ENTITY favloc.options-movedownbutton "아래로">
+<!ENTITY favloc.options-addlocationcaption "위치 추가">
+<!ENTITY favloc.options-namelabel "이름">
+<!ENTITY favloc.options-locationlabel "위치">
+<!ENTITY favloc.options-selectfolderbutton "폴더 고름...">
+<!ENTITY favloc.options-addbutton "추가">
+<!ENTITY favloc.options-menusettings "메뉴 설정">
+<!ENTITY favloc.options-whichmenus "어느 메뉴에 FavLoc를 나오게 할까요?">
+<!ENTITY favloc.options-showcontextimage "이미지 문맥 메뉴">
+<!ENTITY favloc.options-showcontextlink "링크 문맥 메뉴">
+<!ENTITY favloc.options-showcontextattachment "첨부 문맥 메뉴">
+<!ENTITY favloc.options-showcontextallattachments "모든 첨부 문맥 메뉴">
+<!ENTITY favloc.options-showcontextallattachmentsbox "첨부 상자 문맥 메뉴">
+<!ENTITY favloc.options-showfile "파일 메뉴">
+<!ENTITY favloc.options-showdownload "다운로드 프롬프트">
+<!ENTITY favloc.options-downloadsettings "다운로드 프롬프트 설정">
+<!ENTITY favloc.options-automaticallyselect "자동으로 FavLoc 고름">
+<!ENTITY favloc.options-lastsaved "기본으로 최근에 저장한 위치">
+<!ENTITY favloc.options-overwritesettings "파일 겹쳐쓰기 설정">
+<!ENTITY favloc.options-overwritecaption "대상 파일이 이미 있다면, FavLoc가 취할 행동:">
+<!ENTITY favloc.options-overwriteprompt "할 일을 물음">
+<!ENTITY favloc.options-overwriteoverwrite "그 파일에 겹쳐씀">
+<!ENTITY favloc.options-overwriteunique "파일명을 유일하게 함">
+<!ENTITY favloc.options-overwriterename "새 파일명을 일러줌">
+<!ENTITY favloc.options-save "저장">
+<!ENTITY favloc.browser-toolsmenu "FavLoc 설정">
+<!ENTITY favloc.browser-toolsmenu-accesskey "F">
+<!ENTITY favloc.browser-filemenu "FavLoc에 저장...">
+<!ENTITY favloc.browser-filemenu-accesskey "F">
+<!ENTITY favloc.browser-contextmenuimage "이미지 FavLoc에 저장...">
+<!ENTITY favloc.browser-contextmenuimage-accesskey "F">
+<!ENTITY favloc.browser-contextmenulink "링크 FavLoc에 저장...">
+<!ENTITY favloc.browser-contextmenulink-accesskey "F">
+<!ENTITY favloc.browser-contextmenuattachment "첨부 FavLoc에 저장...">
+<!ENTITY favloc.browser-contextmenuattachment-accesskey "F">
+<!ENTITY favloc.browser-contextmenuallattachments "모두 FavLoc에 저장...">
+<!ENTITY favloc.browser-contextmenuallattachments-accesskey "a">
+<!ENTITY favloc.unknown-radio "FavLoc에 저장">
+<!ENTITY favloc.unknown-radio-accesskey "F">
