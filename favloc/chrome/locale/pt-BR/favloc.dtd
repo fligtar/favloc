@@ -15,20 +15,20 @@
 <!ENTITY favloc.options-whichmenus "Em quais menus você quer que o FavLoc apareça?">
 <!ENTITY favloc.options-showcontextimage "Menu de contexto de imagem">
 <!ENTITY favloc.options-showcontextlink "Menu de contexto de link">
-<!ENTITY favloc.options-showcontextattachment "Attachment Context Menu">
-<!ENTITY favloc.options-showcontextallattachments "All Attachments Context Menu">
-<!ENTITY favloc.options-showcontextallattachmentsbox "Attachment Box Context Menu">
+<!ENTITY favloc.options-showcontextattachment "Menu de contexto de anexo">
+<!ENTITY favloc.options-showcontextallattachments "Menu de contexto de todos os anexos">
+<!ENTITY favloc.options-showcontextallattachmentsbox "Menu de contexto da caixa de anexos">
 <!ENTITY favloc.options-showfile "Menu Arquivo">
 <!ENTITY favloc.options-showdownload "Janela de Download">
-<!ENTITY favloc.options-downloadsettings "Download Prompt Settings">
-<!ENTITY favloc.options-automaticallyselect "Automatically select FavLoc">
-<!ENTITY favloc.options-lastsaved "Default to last saved location">
-<!ENTITY favloc.options-overwritesettings "File Overwrite Settings">
-<!ENTITY favloc.options-overwritecaption "If the destination file already exists, FavLoc should:">
-<!ENTITY favloc.options-overwriteprompt "Ask me what to do">
-<!ENTITY favloc.options-overwriteoverwrite "Overwrite the file">
-<!ENTITY favloc.options-overwriteunique "Make the filename unique">
-<!ENTITY favloc.options-overwriterename "Prompt for a new filename">
+<!ENTITY favloc.options-downloadsettings "Configurações da tela de download">
+<!ENTITY favloc.options-automaticallyselect "Selecionar automaticamente FavLoc">
+<!ENTITY favloc.options-lastsaved "Padrão para o último local salvado">
+<!ENTITY favloc.options-overwritesettings "Configurações de sobrescrever arquivos">
+<!ENTITY favloc.options-overwritecaption "Se o arquivo de destino já existir, o FavLoc deverá:">
+<!ENTITY favloc.options-overwriteprompt "Perguntar o que fazer">
+<!ENTITY favloc.options-overwriteoverwrite "Sobrescrever o arquivo">
+<!ENTITY favloc.options-overwriteunique "Tornar o nome do arquivo único">
+<!ENTITY favloc.options-overwriterename "Solicitar um novo nome de arquivo">
 <!ENTITY favloc.options-save "Salvar">
 <!ENTITY favloc.browser-toolsmenu "Opções do FavLoc">
 <!ENTITY favloc.browser-toolsmenu-accesskey "F">
@@ -38,9 +38,9 @@
 <!ENTITY favloc.browser-contextmenuimage-accesskey "f">
 <!ENTITY favloc.browser-contextmenulink "Salvar link em FavLoc...">
 <!ENTITY favloc.browser-contextmenulink-accesskey "f">
-<!ENTITY favloc.browser-contextmenuattachment "Save Attachment to FavLoc...">
+<!ENTITY favloc.browser-contextmenuattachment "Salvar anexo para FavLoc...">
 <!ENTITY favloc.browser-contextmenuattachment-accesskey "f">
-<!ENTITY favloc.browser-contextmenuallattachments "Save All to FavLoc...">
+<!ENTITY favloc.browser-contextmenuallattachments "Salvar tudo para FavLoc...">
 <!ENTITY favloc.browser-contextmenuallattachments-accesskey "a">
 <!ENTITY favloc.unknown-radio "Salvar em FavLoc">
 <!ENTITY favloc.unknown-radio-accesskey "F">

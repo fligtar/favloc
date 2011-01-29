@@ -8,17 +8,21 @@ overlay	chrome://messenger/content/msgHdrViewOverlay.xul	chrome://favloc/content
 component   {6d242d50-af55-11db-abbd-0800200c9a66}    components/favloc.js
 contract    @fligtar.com/favloc;1   {6d242d50-af55-11db-abbd-0800200c9a66}
 
-locale	favloc	da-DK	chrome/locale/da-DK/
-locale	favloc	de-DE	chrome/locale/de-DE/
+locale	favloc	da	    chrome/locale/da/
+locale	favloc	de	    chrome/locale/de/
 locale	favloc	en-US	chrome/locale/en-US/
 locale	favloc	es-AR	chrome/locale/es-AR/
 locale	favloc	es-ES	chrome/locale/es-ES/
 locale	favloc	fa-IR	chrome/locale/fa-IR/
-locale	favloc	fr-FR	chrome/locale/fr-FR/
+locale	favloc	fr	    chrome/locale/fr/
+locale  favloc  he-IL   chrome/locale/he-IL/
 locale	favloc	hr-HR	chrome/locale/hr-HR/
 locale	favloc	hu-HU	chrome/locale/hu-HU/
 locale	favloc	it-IT	chrome/locale/it-IT/
 locale	favloc	ko-KR	chrome/locale/ko-KR/
-locale	favloc	nl-NL	chrome/locale/nl-NL/
+locale	favloc	nl	    chrome/locale/nl/
+locale  favloc  pl      chrome/locale/pl/
 locale	favloc	pt-BR	chrome/locale/pt-BR/
 locale	favloc	sk-SK	chrome/locale/sk-SK/
+locale  favloc  tr-TR   chrome/locale/tr-TR/
+locale  favloc  zh-CN   chrome/locale/zh-CN/

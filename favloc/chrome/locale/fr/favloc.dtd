@@ -2,11 +2,11 @@
 <!ENTITY favloc.options-favloccaption "Emplacements favoris">
 <!ENTITY favloc.options-locations-tab "Emplacements">
 <!ENTITY favloc.options-settings-tab "Paramètres">
-<!ENTITY favloc.options-listboxdescription "Ces emplacements seront affichés dans le menu &quot;Fichier&quot;, les menus contextuels et la boîte de téléchargements afin d&apos;être sélectionnés aisément.">
+<!ENTITY favloc.options-listboxdescription "Ces emplacements seront affichés dans le menu &quot;Fichier&quot;, les menus contextuels et la boîte de téléchargements afin d'être sélectionnés aisément.">
 <!ENTITY favloc.options-deletebutton "Supprimer">
 <!ENTITY favloc.options-moveupbutton "Monter">
 <!ENTITY favloc.options-movedownbutton "Descendre">
-<!ENTITY favloc.options-addlocationcaption "Ajouter l&apos;emplacement">
+<!ENTITY favloc.options-addlocationcaption "Ajouter l'emplacement">
 <!ENTITY favloc.options-namelabel "Nom">
 <!ENTITY favloc.options-locationlabel "Emplacement">
 <!ENTITY favloc.options-selectfolderbutton "Sélectionner un dossier...">
@@ -22,10 +22,10 @@
 <!ENTITY favloc.options-showdownload "Boîte de téléchargements">
 <!ENTITY favloc.options-downloadsettings "Paramètres de la boîte de téléchargements">
 <!ENTITY favloc.options-automaticallyselect "Sélectionner automatiquement FavLoc">
-<!ENTITY favloc.options-lastsaved "Dernier emplacement d&apos;enregistrement par défaut">
+<!ENTITY favloc.options-lastsaved "Dernier emplacement d'enregistrement par défaut">
 <!ENTITY favloc.options-overwritesettings "Paramètres en cas de conflit de nommage">
 <!ENTITY favloc.options-overwritecaption "Si le fichier de destination existe déjà, FavLoc devra :">
-<!ENTITY favloc.options-overwriteprompt "Me demander ce qu&apos;il faut faire">
+<!ENTITY favloc.options-overwriteprompt "Me demander ce qu'il faut faire">
 <!ENTITY favloc.options-overwriteoverwrite "Remplacer le fichier">
 <!ENTITY favloc.options-overwriteunique "Renommer automatiquement le fichier">
 <!ENTITY favloc.options-overwriterename "Me demander un autre nom de fichier">
@@ -34,7 +34,7 @@
 <!ENTITY favloc.browser-toolsmenu-accesskey "F">
 <!ENTITY favloc.browser-filemenu "Enregistrer avec FavLoc...">
 <!ENTITY favloc.browser-filemenu-accesskey "F">
-<!ENTITY favloc.browser-contextmenuimage "Enregistrer l&apos;image avec FavLoc...">
+<!ENTITY favloc.browser-contextmenuimage "Enregistrer l'image avec FavLoc...">
 <!ENTITY favloc.browser-contextmenuimage-accesskey "F">
 <!ENTITY favloc.browser-contextmenulink "Enregistrer la cible du lien avec FavLoc...">
 <!ENTITY favloc.browser-contextmenulink-accesskey "F">

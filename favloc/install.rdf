@@ -18,19 +18,21 @@
         <em:contributor>Denis Remondini</em:contributor>
         
         <!-- Translators -->
-        <em:translator>da-DK: AlleyKat</em:translator>
-        <em:translator>de-DE: Starke</em:translator>
+        <em:translator>da: AlleyKat</em:translator>
+        <em:translator>de: Starke</em:translator>
         <em:translator>es-AR: ZuGro</em:translator>
         <em:translator>es-ES: ZuGro</em:translator>
         <em:translator>fa-IR: Pedram Veisi</em:translator>
-        <em:translator>fr-FR: jojaba</em:translator>
+        <em:translator>fr: jojaba</em:translator>
         <em:translator>hr-HR: Krcko</em:translator>
         <em:translator>hu-HU: fenya25</em:translator>
         <em:translator>it-IT: l0stintranslation</em:translator>
         <em:translator>ko-KR: netaras</em:translator>
-        <em:translator>nl-NL: markh</em:translator>
+        <em:translator>nl: markh</em:translator>
         <em:translator>pt-BR: Rodrigo Bergmann Laurindo</em:translator>
         <em:translator>sk-SK: Gianny111</em:translator>
+        <em:translator>tr-TR: efecan</em:translator>
+        <em:translator>zh-CN: Xorcerer</em:translator>
         <em:translator>Thanks to Babelzilla.org</em:translator>
         
         <!-- Mozilla Firefox -->

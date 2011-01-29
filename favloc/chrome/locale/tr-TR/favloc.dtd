@@ -1,0 +1,46 @@
+<!ENTITY favloc.options-dialogtitle "FavLoc Ayarları">
+<!ENTITY favloc.options-favloccaption "Favori Konumlar">
+<!ENTITY favloc.options-locations-tab "Konumlar">
+<!ENTITY favloc.options-settings-tab "Ayarlar">
+<!ENTITY favloc.options-listboxdescription "Bu konumlar kolay seçim için Dosya menüsünde, içerik menüsünde ve indirme onayında görüntülecek.">
+<!ENTITY favloc.options-deletebutton "Sil">
+<!ENTITY favloc.options-moveupbutton "Yukarı Taşı">
+<!ENTITY favloc.options-movedownbutton "Aşağı Taşı">
+<!ENTITY favloc.options-addlocationcaption "Konum Ekle">
+<!ENTITY favloc.options-namelabel "Ad">
+<!ENTITY favloc.options-locationlabel "Konum">
+<!ENTITY favloc.options-selectfolderbutton "Klasör Seç...">
+<!ENTITY favloc.options-addbutton "Ekle">
+<!ENTITY favloc.options-menusettings "Menü Ayarlar">
+<!ENTITY favloc.options-whichmenus "Hangi menülerde FavLoc gösterilsin?">
+<!ENTITY favloc.options-showcontextimage "Resim İçerik Menüsü">
+<!ENTITY favloc.options-showcontextlink "Bağlantı İçerik Menüsü">
+<!ENTITY favloc.options-showcontextattachment "Ek İçerik Menüsü">
+<!ENTITY favloc.options-showcontextallattachments "Tüm Ek İçerik Menüsü">
+<!ENTITY favloc.options-showcontextallattachmentsbox "Ek Kutusu İçerik Menüsü">
+<!ENTITY favloc.options-showfile "Dosya Menüsü">
+<!ENTITY favloc.options-showdownload "İndirme Onayı">
+<!ENTITY favloc.options-downloadsettings "İndirme Onayı Ayarları">
+<!ENTITY favloc.options-automaticallyselect "FavLoc'u otomatik seç">
+<!ENTITY favloc.options-lastsaved "Son kaydedilen konum varsayılanı">
+<!ENTITY favloc.options-overwritesettings "Dosya Üzerine-yazma Ayarları">
+<!ENTITY favloc.options-overwritecaption "Eğer hedef dosya varsa Favloc:">
+<!ENTITY favloc.options-overwriteprompt "Ne yapacağımı sorsun">
+<!ENTITY favloc.options-overwriteoverwrite "Üzerine yazsın">
+<!ENTITY favloc.options-overwriteunique "Dosya adını değiştirsin">
+<!ENTITY favloc.options-overwriterename "Yeni dosya adı girmemi istesin">
+<!ENTITY favloc.options-save "Kaydet">
+<!ENTITY favloc.browser-toolsmenu "FavLoc Ayarları">
+<!ENTITY favloc.browser-toolsmenu-accesskey "F">
+<!ENTITY favloc.browser-filemenu "FavLoc'a Kaydet...">
+<!ENTITY favloc.browser-filemenu-accesskey "f">
+<!ENTITY favloc.browser-contextmenuimage "Resmi FavLoc'a Kaydet...">
+<!ENTITY favloc.browser-contextmenuimage-accesskey "f">
+<!ENTITY favloc.browser-contextmenulink "Bağlantıyı FavLoc'a Kaydet...">
+<!ENTITY favloc.browser-contextmenulink-accesskey "f">
+<!ENTITY favloc.browser-contextmenuattachment "Eki FavLoc'a Kaydet...">
+<!ENTITY favloc.browser-contextmenuattachment-accesskey "f">
+<!ENTITY favloc.browser-contextmenuallattachments "Tümünü FavLoc'a Kaydet...">
+<!ENTITY favloc.browser-contextmenuallattachments-accesskey "a">
+<!ENTITY favloc.unknown-radio "FavLoc'a Kaydet">
+<!ENTITY favloc.unknown-radio-accesskey "F">

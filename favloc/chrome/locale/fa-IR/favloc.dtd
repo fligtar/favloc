@@ -15,20 +15,20 @@
 <!ENTITY favloc.options-whichmenus "در کدام منوها نمایش داده شود؟ FavLoc">
 <!ENTITY favloc.options-showcontextimage "برای عکس در منوی کلیک راست">
 <!ENTITY favloc.options-showcontextlink "برای لینک در منوی کلیک راست">
-<!ENTITY favloc.options-showcontextattachment "Attachment Context Menu">
-<!ENTITY favloc.options-showcontextallattachments "All Attachments Context Menu">
-<!ENTITY favloc.options-showcontextallattachmentsbox "Attachment Box Context Menu">
+<!ENTITY favloc.options-showcontextattachment "ضمیمه منوی کلیک راست">
+<!ENTITY favloc.options-showcontextallattachments "ضمیمه های منوی کلیک راست">
+<!ENTITY favloc.options-showcontextallattachmentsbox "جعبه ضمیمه منوی کلیک راست">
 <!ENTITY favloc.options-showfile "منوی فایل">
 <!ENTITY favloc.options-showdownload "پنجره دانلود">
-<!ENTITY favloc.options-downloadsettings "Download Prompt Settings">
-<!ENTITY favloc.options-automaticallyselect "Automatically select FavLoc">
-<!ENTITY favloc.options-lastsaved "Default to last saved location">
-<!ENTITY favloc.options-overwritesettings "File Overwrite Settings">
-<!ENTITY favloc.options-overwritecaption "If the destination file already exists, FavLoc should:">
-<!ENTITY favloc.options-overwriteprompt "Ask me what to do">
-<!ENTITY favloc.options-overwriteoverwrite "Overwrite the file">
-<!ENTITY favloc.options-overwriteunique "Make the filename unique">
-<!ENTITY favloc.options-overwriterename "Prompt for a new filename">
+<!ENTITY favloc.options-downloadsettings "تنظیمات دریافت سریع">
+<!ENTITY favloc.options-automaticallyselect "FavLoc انتخاب خودکار">
+<!ENTITY favloc.options-lastsaved "تنظیم آخرین مکان انتخاب شده به عنوان مکان پیشفرض">
+<!ENTITY favloc.options-overwritesettings "تنظیمات بازنویسی فایل">
+<!ENTITY favloc.options-overwritecaption ": اگر فایل مقصد وجود داشته باشد">
+<!ENTITY favloc.options-overwriteprompt "از من بپرس">
+<!ENTITY favloc.options-overwriteoverwrite "بازنویسی">
+<!ENTITY favloc.options-overwriteunique "تغییر نام فایل به صورت اختصاصی">
+<!ENTITY favloc.options-overwriterename "اجازه گرفتن برای یک نام جدید برای فایل">
 <!ENTITY favloc.options-save "ذخیره">
 <!ENTITY favloc.browser-toolsmenu "FavLoc تنظیمات">
 <!ENTITY favloc.browser-toolsmenu-accesskey "F">
@@ -38,9 +38,9 @@
 <!ENTITY favloc.browser-contextmenuimage-accesskey "f">
 <!ENTITY favloc.browser-contextmenulink "FavLoc ذخیره لینک در">
 <!ENTITY favloc.browser-contextmenulink-accesskey "f">
-<!ENTITY favloc.browser-contextmenuattachment "Save Attachment to FavLoc...">
+<!ENTITY favloc.browser-contextmenuattachment "FavLoc ذخیره ضمیمه ها در">
 <!ENTITY favloc.browser-contextmenuattachment-accesskey "f">
-<!ENTITY favloc.browser-contextmenuallattachments "Save All to FavLoc...">
+<!ENTITY favloc.browser-contextmenuallattachments "FavLoc ذخیره تمام فایل ها در">
 <!ENTITY favloc.browser-contextmenuallattachments-accesskey "a">
 <!ENTITY favloc.unknown-radio "FavLoc ذخیره در">
 <!ENTITY favloc.unknown-radio-accesskey "F">

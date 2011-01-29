@@ -1,16 +1,16 @@
-<!ENTITY favloc.options-dialogtitle "FavLoc Options">
+<!ENTITY favloc.options-dialogtitle "אפשרויות FavLoc">
 <!ENTITY favloc.options-favloccaption "Favorite Locations">
-<!ENTITY favloc.options-locations-tab "Locations">
-<!ENTITY favloc.options-settings-tab "Settings">
+<!ENTITY favloc.options-locations-tab "מיקומים">
+<!ENTITY favloc.options-settings-tab "הגדרות">
 <!ENTITY favloc.options-listboxdescription "These locations will be displayed on the File menu, context menus, and the download prompt for easy selection.">
-<!ENTITY favloc.options-deletebutton "Delete">
+<!ENTITY favloc.options-deletebutton "מחק">
 <!ENTITY favloc.options-moveupbutton "Move Up">
 <!ENTITY favloc.options-movedownbutton "Move Down">
 <!ENTITY favloc.options-addlocationcaption "Add Location">
 <!ENTITY favloc.options-namelabel "Name">
-<!ENTITY favloc.options-locationlabel "Location">
+<!ENTITY favloc.options-locationlabel "מיקום">
 <!ENTITY favloc.options-selectfolderbutton "Select Folder...">
-<!ENTITY favloc.options-addbutton "Add">
+<!ENTITY favloc.options-addbutton "הוספה">
 <!ENTITY favloc.options-menusettings "Menu Settings">
 <!ENTITY favloc.options-whichmenus "On which menus would you like FavLoc to appear?">
 <!ENTITY favloc.options-showcontextimage "Image Context Menu ">

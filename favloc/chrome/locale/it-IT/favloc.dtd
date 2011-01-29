@@ -15,14 +15,14 @@
 <!ENTITY favloc.options-whichmenus "Selezionare in quali menu e finestre dovrà apparire FavLoc">
 <!ENTITY favloc.options-showcontextimage "Menu contestuale dell&apos;immagine ">
 <!ENTITY favloc.options-showcontextlink "Menu contestuale del link">
-<!ENTITY favloc.options-showcontextattachment "Menu contestuale dell&apos;allegato">
+<!ENTITY favloc.options-showcontextattachment "Menu contestuale dell'allegato">
 <!ENTITY favloc.options-showcontextallattachments "Menu contestuale per tutti gli allegati">
 <!ENTITY favloc.options-showcontextallattachmentsbox "Menu contestuale del riquadro degli allegati">
 <!ENTITY favloc.options-showfile "Menu &apos;File&apos;">
 <!ENTITY favloc.options-showdownload "Finestra di conferma del download">
 <!ENTITY favloc.options-downloadsettings "Impostazioni della finestra di conferma del download">
 <!ENTITY favloc.options-automaticallyselect "Seleziona automaticamente FavLoc">
-<!ENTITY favloc.options-lastsaved "Ricorda l&apos;ultima cartella utilizzata">
+<!ENTITY favloc.options-lastsaved "Ricorda l'ultima cartella utilizzata">
 <!ENTITY favloc.options-overwritesettings "Impostazioni di sovrascrittura dei file">
 <!ENTITY favloc.options-overwritecaption "Se il file è già esistente:">
 <!ENTITY favloc.options-overwriteprompt "chiedi cosa fare">

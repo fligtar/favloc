@@ -8,17 +8,21 @@ overlay	chrome://messenger/content/msgHdrViewOverlay.xul	chrome://favloc/content
 component   {6d242d50-af55-11db-abbd-0800200c9a66}    components/favloc.js
 contract    @fligtar.com/favloc;1   {6d242d50-af55-11db-abbd-0800200c9a66}
 
-locale	favloc	da-DK	jar:chrome/favloc.jar!/locale/da-DK/
-locale	favloc	de-DE	jar:chrome/favloc.jar!/locale/de-DE/
+locale	favloc	da	    jar:chrome/favloc.jar!/locale/da/
+locale	favloc	de	    jar:chrome/favloc.jar!/locale/de/
 locale	favloc	en-US	jar:chrome/favloc.jar!/locale/en-US/
 locale	favloc	es-AR	jar:chrome/favloc.jar!/locale/es-AR/
 locale	favloc	es-ES	jar:chrome/favloc.jar!/locale/es-ES/
 locale	favloc	fa-IR	jar:chrome/favloc.jar!/locale/fa-IR/
-locale	favloc	fr-FR	jar:chrome/favloc.jar!/locale/fr-FR/
+locale	favloc	fr	    jar:chrome/favloc.jar!/locale/fr/
+locale  favloc  he-IL   jar:chrome/favloc.jar!/locale/he-IL/
 locale	favloc	hr-HR	jar:chrome/favloc.jar!/locale/hr-HR/
 locale	favloc	hu-HU	jar:chrome/favloc.jar!/locale/hu-HU/
 locale	favloc	it-IT	jar:chrome/favloc.jar!/locale/it-IT/
 locale	favloc	ko-KR	jar:chrome/favloc.jar!/locale/ko-KR/
-locale	favloc	nl-NL	jar:chrome/favloc.jar!/locale/nl-NL/
+locale	favloc	nl	    jar:chrome/favloc.jar!/locale/nl/
+locale  favloc  pl      jar:chrome/favloc.jar!/locale/pl/
 locale	favloc	pt-BR	jar:chrome/favloc.jar!/locale/pt-BR/
 locale	favloc	sk-SK	jar:chrome/favloc.jar!/locale/sk-SK/
+locale  favloc  tr-TR   jar:chrome/favloc.jar!/locale/tr-TR/
+locale  favloc  zh-CN   jar:chrome/favloc.jar!/locale/zh-CN/

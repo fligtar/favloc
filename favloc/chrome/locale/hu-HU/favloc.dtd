@@ -22,10 +22,10 @@
 <!ENTITY favloc.options-showdownload "Letöltés figyelmeztetés">
 <!ENTITY favloc.options-downloadsettings "Letöltés figyelmeztetés beállítások">
 <!ENTITY favloc.options-automaticallyselect "Favloc automatikus kiválasztása">
-<!ENTITY favloc.options-lastsaved "Default to last saved location">
+<!ENTITY favloc.options-lastsaved "Az utoljára mentett hely legyen alapértelmezett">
 <!ENTITY favloc.options-overwritesettings "Fájl felülírás beállítások">
-<!ENTITY favloc.options-overwritecaption "If the destination file already exists, FavLoc should:">
-<!ENTITY favloc.options-overwriteprompt "Ask me what to do">
+<!ENTITY favloc.options-overwritecaption "Ha a célfájl már létezik, FavLocnak kellene csinálnia:">
+<!ENTITY favloc.options-overwriteprompt "Kérdezzen rá a teendőre">
 <!ENTITY favloc.options-overwriteoverwrite "Fájl felülírása">
 <!ENTITY favloc.options-overwriteunique "A fájlnév egyedivé tétele">
 <!ENTITY favloc.options-overwriterename "Értesítés új fájlnév miatt">
@@ -41,6 +41,6 @@
 <!ENTITY favloc.browser-contextmenuattachment "Csatolmány mentése a Favloc-hoz...">
 <!ENTITY favloc.browser-contextmenuattachment-accesskey "f">
 <!ENTITY favloc.browser-contextmenuallattachments "Az összes mentése a Favloc-hoz...">
-<!ENTITY favloc.browser-contextmenuallattachments-accesskey "a">
+<!ENTITY favloc.browser-contextmenuallattachments-accesskey "c">
 <!ENTITY favloc.unknown-radio "Mentés Favloc-hoz">
 <!ENTITY favloc.unknown-radio-accesskey "F">
