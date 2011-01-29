@@ -5,6 +5,9 @@ overlay	chrome://browser/content/browser.xul	chrome://favloc/content/favlocBrows
 overlay	chrome://messenger/content/mailWindowOverlay.xul	chrome://favloc/content/favlocMessenger.xul
 overlay	chrome://messenger/content/msgHdrViewOverlay.xul	chrome://favloc/content/favlocMessenger.xul
 
+component   {6d242d50-af55-11db-abbd-0800200c9a66}    components/favloc.js
+contract    @fligtar.com/favloc;1   {6d242d50-af55-11db-abbd-0800200c9a66}
+
 locale	favloc	da-DK	jar:chrome/favloc.jar!/locale/da-DK/
 locale	favloc	de-DE	jar:chrome/favloc.jar!/locale/de-DE/
 locale	favloc	en-US	jar:chrome/favloc.jar!/locale/en-US/

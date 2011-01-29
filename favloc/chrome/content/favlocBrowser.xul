@@ -80,7 +80,7 @@ window.addEventListener("load", function(e) {
 	
     <!-- File menu -->
 	<menupopup id="menu_FilePopup">
-		<menu id="file-favloc" label="&favloc.browser-filemenu;" accesskey="&favloc.browser-filemenu-accesskey;" insertafter="menu_saveFrame">
+		<menu id="file-favloc" label="&favloc.browser-filemenu;" accesskey="&favloc.browser-filemenu-accesskey;" insertafter="menu_savePage">
 			<menupopup id="file-favloc-popup">
 			</menupopup>
 		</menu>

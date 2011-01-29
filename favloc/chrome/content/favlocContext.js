@@ -71,6 +71,16 @@ var FavLocContext = {
 			popup.appendChild(menuitem);
 		}
 		
+		var menuitem = document.createElement('menuseparator');
+		popup.appendChild(menuitem);
+			
+		var menuitem = document.createElement('menuitem');
+		menuitem.setAttribute('id', "context-favloc-options");
+		menuitem.setAttribute('label', FavLoc.bundle.GetStringFromName("favloc.popup-options"));
+		menuitem.setAttribute('accesskey', FavLoc.bundle.GetStringFromName("favloc.popup-options-accesskey"));
+		menuitem.addEventListener("command", function(e) { new FavLocOptions.showOptions(); }, false);
+		popup.appendChild(menuitem);
+		
 		if (type.indexOf('attachment') == -1) {
 			document.getElementById("contentAreaContextMenu").addEventListener("popupshowing", function(e) { new FavLocContext.checkContext(); }, false);
 		}

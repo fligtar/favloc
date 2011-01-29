@@ -35,6 +35,8 @@
 const Cc = Components.classes;
 const Ci = Components.interfaces;
 
+Components.utils.import("resource://gre/modules/XPCOMUtils.jsm");
+
 function FavLocComponent() {
     this.wrappedJSObject = this;
     
@@ -46,6 +48,13 @@ function FavLocComponent() {
 }
 
 FavLocComponent.prototype = {
+    classDescription: "FavLoc Component",
+    classID: Components.ID("{6d242d50-af55-11db-abbd-0800200c9a66}"),
+    contractID: "@fligtar.com/favloc;1",
+    
+    QueryInterface: XPCOMUtils.generateQI(
+        [Components.interfaces.nsIObserver]),
+    
     bundle: null,
     favorites: [],
     names: [],
@@ -283,55 +292,14 @@ FavLocComponent.prototype = {
         
         this.isThunderbird = false;
         return false;
-    },
-
-    QueryInterface: function(iid) {
-        if (iid.equals(Ci.nsISupports)) {
-            return this;
-        }
-        else
-        {
-            throw Components.results.NS_ERROR_NO_INTERFACE;
-        }
     }
 };
 
-var initModule = {
-    ServiceCID: Components.ID("{6d242d50-af55-11db-abbd-0800200c9a66}"),
-    ServiceContractID: "@fligtar.com/favloc;1",
-    ServiceName: "FavLoc",
-	
-    registerSelf: function(compMgr, fileSpec, location, type) {
-        compMgr = compMgr.QueryInterface(Ci.nsIComponentRegistrar);
-        compMgr.registerFactoryLocation(this.ServiceCID, this.ServiceName, this.ServiceContractID, fileSpec, location,type);
-    },
-
-    unregisterSelf: function(compMgr, fileSpec, location) {
-	compMgr = compMgr.QueryInterface(Ci.nsIComponentRegistrar);
-	compMgr.unregisterFactoryLocation(this.ServiceCID,fileSpec);
-    },
-
-    getClassObject: function(compMgr, cid, iid) {
-	if (!cid.equals(this.ServiceCID))
-	    throw Components.results.NS_ERROR_NO_INTERFACE
-	if (!iid.equals(Ci.nsIFactory))
-	    throw Components.results.NS_ERROR_NOT_IMPLEMENTED;
-	return this.instanceFactory;
-    },
-
-    canUnload: function(compMgr) {
-	return true;
-    },
-
-    instanceFactory: {
-        createInstance: function (outer, iid) {
-	    if (outer != null)
-	      throw Components.results.NS_ERROR_NO_AGGREGATION;
-	    return new FavLocComponent().QueryInterface(iid);
-	}
-    }
-};
-
-function NSGetModule(compMgr, fileSpec) {
-    return initModule;
-}
+/**
+* XPCOMUtils.generateNSGetFactory was introduced in Mozilla 2 (Firefox 4).
+* XPCOMUtils.generateNSGetModule is for Mozilla 1.9.2 (Firefox 3.6).
+*/
+if (XPCOMUtils.generateNSGetFactory)
+    var NSGetFactory = XPCOMUtils.generateNSGetFactory([FavLocComponent]);
+else
+    var NSGetModule = XPCOMUtils.generateNSGetModule([FavLocComponent]);
